@@ -1,0 +1,11 @@
+.navBar li {
+	display:inline;
+	margin: 0 100px;
+}
+.navBar li :hover {
+	color: green;
+	background-color: red;
+}
+.navBar li :active {
+	padding: 0 5px 0 5px;
+}
